@@ -1,7 +1,5 @@
 # 2020 CO-Final Project
 Co-coding with LiyangTseng
-# How to download ?
-1. git clone https://github.com/Shalana/2020-CO-Final-Project.git
 
 # How to execute this program ?
 make sure your Cosmall.txt and FMIndex.cpp under the same folder.
